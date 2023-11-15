@@ -1,0 +1,25 @@
+.body{
+    background-image: url("../bimg/bimg2.jpg");
+    background-position:top;
+    background-repeat: repeat;
+    background-size: 100%;
+    background-attachment:scroll;
+    scroll-behavior: auto;
+    background-size: cover;
+}
+
+p{
+    color: rgb(241, 148, 8);
+}
+h1{
+    color: blue;
+}
+/* body{
+    background-attachment;
+} */
+
+*{
+    background-color: aqua;
+    padding: 0px;
+    ma
+}

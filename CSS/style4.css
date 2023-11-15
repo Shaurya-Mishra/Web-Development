@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  font-family: sans-serif;
+}
+
+nav {
+  background-color: darkgoldenrod;
+  text-align: right;
+}
+ul {
+  padding: 5px 15px;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+a:hover {
+  text-decoration: underline;
+}
+.menu li {
+  padding: 10px 5px;
+  font-size: 16px;
+  text-align: center;
+}
+.menu li a {
+  display: block;
+}
+.menu {
+  display:flex;
+
+  flex-wrap: wrap;
+
+  align-items: center;
+}
+.menu li {
+  text-align: left;
+}

@@ -1,0 +1,20 @@
+*{
+    background-color: aqua;
+}
+
+.demo.remo{
+   list-style:circle;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: medium;
+}
+nav{
+    text-align: center;
+    
+}
+
+ nav ul li{
+    list-style: none;
+    display: flex;
+     position:relative ;
+
+}
